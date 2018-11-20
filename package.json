@@ -1,0 +1,21 @@
+{
+  "name": "telbot",
+  "version": "0.0.1",
+  "description": "tipe project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cailloux community",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "enmap": "^2.0.2",
+    "enmap-level": "^2.0.0",
+    "eslint": "^4.19.0",
+    "npm": "^6.0.0",
+    "request": "^2.85.0",
+    "sqlite": "^2.9.2",
+    "sqlite3": "^4.0.0"
+  }
+}
