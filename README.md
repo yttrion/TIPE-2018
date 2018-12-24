@@ -1,10 +1,10 @@
-#**TELBOT**
+# **TELBOT**
 
 This bot was created for a computer project from our Science school
 
 It allows the bot to create a comunication line between two guilds where the bot is member
 
-##**CHANGELOG**
+## **CHANGELOG**
 
 **V  - 0.1**
 
