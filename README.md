@@ -1,6 +1,6 @@
 # **TELBOT**
 
-This bot was created for a computer project from our Science school
+This bot was created for a computer project from our Engineering school
 
 It allows the bot to create a comunication line between two guilds where the bot is member
 
